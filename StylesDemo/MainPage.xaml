@@ -18,7 +18,8 @@
                 Value="20" />
         </Style>
         <Style
-            TargetType="Button">
+            TargetType="Button"
+            x:Key="buttonStyle">
             <Setter
                 Property="BackgroundColor"
                 Value="{StaticResource BgColor}" />
@@ -36,18 +37,8 @@
 
     <ScrollView>
         <VerticalStackLayout>
-            <Button Text="LOGIN">
-                <Button.Resources>
-                    <Style
-                        TargetType="Button">
-                        <Setter
-                            Property="BackgroundColor"
-                            Value="orange" />
-                    </Style>
-                </Button.Resources>
-            </Button>
-
-            <Button Text="VISIT WEBSITE" />
+            <Button Text="LOGIN" Style="{StaticResource buttonStyle}" />
+            <Button Text="VISIT WEBSITE" Style="{StaticResource buttonStyle}" />
         </VerticalStackLayout>
     </ScrollView>
 
