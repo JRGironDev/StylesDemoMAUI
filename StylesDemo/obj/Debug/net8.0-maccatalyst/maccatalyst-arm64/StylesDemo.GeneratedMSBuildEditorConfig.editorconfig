@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = StylesDemo.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[/Users/josequinonez/C\#/MAUI/StylesDemo/StylesDemo/DinamicStylesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StylesDemo.DinamicStylesView.xaml
+build_metadata.AdditionalFiles.TargetPath = DinamicStylesView.xaml
+build_metadata.AdditionalFiles.RelativePath = DinamicStylesView.xaml
+
 [/Users/josequinonez/C\#/MAUI/StylesDemo/StylesDemo/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StylesDemo.MainPage.xaml
@@ -51,3 +57,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StylesDemo.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/josequinonez/C\#/MAUI/StylesDemo/StylesDemo/StylesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StylesDemo.StylesView.xaml
+build_metadata.AdditionalFiles.TargetPath = StylesView.xaml
+build_metadata.AdditionalFiles.RelativePath = StylesView.xaml
